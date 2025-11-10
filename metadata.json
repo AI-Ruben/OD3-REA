@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ODE3 Quality Simulator",
+  "description": "A web application to simulate the quality validation process for Open Educational Resources (OER), based on the ikasNOVA ODE3 guide and INTEF 2025 requirements. Users can fill out metadata and checklists to receive a detailed quality assessment.",
+  "requestFramePermissions": []
+}
